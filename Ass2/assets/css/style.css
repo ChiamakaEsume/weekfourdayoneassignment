@@ -1,0 +1,11 @@
+.circle{
+    border-radius: 100%;
+    
+}
+.img{
+    width: 100px;
+    align-items: center;
+}
+.btn{
+    border-radius: 10px;
+}
